@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b747ee58-3676-45ef-ac25-83d41f1d96f5",
+    "data": [
+      {
+        "text": "No idea.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "106e2d51-37c8-4331-80f3-3a9d461e44b4",
+    "data": [
+      {
+        "text": "Feeling clueless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "038a0c35-1201-49e3-8931-37b5bbe9bd2e",
+    "data": [
+      {
+        "text": "I am so clueless.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faf5becd-8f8b-45db-ada2-298f23b88f41",
+    "data": [
+      {
+        "text": "I have no idea.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

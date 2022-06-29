@@ -1,0 +1,59 @@
+[
+  {
+    "id": "5645f76a-221f-499d-a150-d8df15832db3",
+    "data": [
+      {
+        "text": "Last sunday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b50271ff-57fe-40a2-b3ad-cb5576f0c4fb",
+    "data": [
+      {
+        "text": "Yesterday",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ff01b0d-776f-4f1e-a970-93acfe16bea0",
+    "data": [
+      {
+        "text": "Today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

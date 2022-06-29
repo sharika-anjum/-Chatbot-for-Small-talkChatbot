@@ -1,0 +1,39 @@
+{
+  "id": "f6a09d57-0bae-4102-b993-86622128b01e",
+  "parentId": "ada2d12e-3a0c-4c90-957c-1e82ea56aabb",
+  "rootParentId": "ada2d12e-3a0c-4c90-957c-1e82ea56aabb",
+  "name": "I have no friends - yes",
+  "auto": true,
+  "contexts": [
+    "Ihavenofriends-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ihavenofriends.Ihavenofriends-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Then don\u0027t say things like that."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

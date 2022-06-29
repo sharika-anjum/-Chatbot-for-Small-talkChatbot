@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a14ead17-5ecd-47b5-991a-8544624f302b",
+    "data": [
+      {
+        "text": "What\u0027sup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9fee472-04ae-4c93-b7e8-0996943d99e1",
+    "data": [
+      {
+        "text": "Wassup?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94e1ce0c-985b-4ae1-bcd3-a5e6540e1fec",
+    "data": [
+      {
+        "text": "What are you upto?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d97b2bd9-0c84-4bd2-85f1-ffb6bd3f9248",
+    "data": [
+      {
+        "text": "What doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0847cb20-a353-42da-9814-4766aa29dd85",
+    "data": [
+      {
+        "text": "What are you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

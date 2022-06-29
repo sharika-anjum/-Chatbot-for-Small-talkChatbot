@@ -1,0 +1,45 @@
+{
+  "id": "3fea9fac-2e53-4f7f-a943-63a4a46a9db8",
+  "name": "Joke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How do trees get on the Internet?----They log in.",
+            "What do you call a space magician?-----A flying saucerer.",
+            "What is a computer’s first sign of old age?----- Loss of memory. LOL",
+            "What does a baby computer call his father?-- Instead of Da-da it says “Da-ta.” Hehe",
+            "What is an astronaut’s favorite control on the computer keyboard?---The space bar. Hehe",
+            "What happened when the computer fell on the floor?---It slipped a disk. LOL",
+            "Why was there a bug in the computer?---It was looking for a byte to eat. Hehe",
+            "What kind of doctor fixes broken websites?---An URLologist. LOL",
+            "I failed math so many times at school, I can’t even count.",
+            "I was wondering why the frisbee kept getting bigger and bigger, but then Ouch it hit me.",
+            "Did you hear about the first restaurant to open on the moon?---It had great food, but no atmosphere. Hehe"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

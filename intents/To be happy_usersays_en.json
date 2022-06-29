@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1a735890-4644-44d6-b390-0dea91eef3ce",
+    "data": [
+      {
+        "text": "What to do to be happy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a70b028f-aaea-4387-8bb6-0190b4255d42",
+    "data": [
+      {
+        "text": "I want happiness.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57551c1d-80b4-41f4-bc5b-50419ede4c0b",
+    "data": [
+      {
+        "text": "How to be happy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f51293c-1f1a-4a05-a079-e902ebef06b7",
+    "data": [
+      {
+        "text": "How can I be happy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

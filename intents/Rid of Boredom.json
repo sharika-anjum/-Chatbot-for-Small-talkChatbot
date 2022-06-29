@@ -1,0 +1,35 @@
+{
+  "id": "55ef1c4f-0de8-4065-b058-332f4fd9a154",
+  "name": "Rid of Boredom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ummm, according to me you can follow one of these 6 things to cope with boredom. Getting bored is normal and everyone feels this atleast once in their lifetime.\n\n\n\n1.Try somethings new.\n2. If you are in the middle of a task, remind yourself why you\u0027re doing this.\n3. Listen to some good music/song.\n4. Watch some movies.\n5. Follow your hobbies.\n6. Connect with people."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

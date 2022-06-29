@@ -1,0 +1,35 @@
+{
+  "id": "d785d014-451d-41f8-9d53-b8d09fbe3c1c",
+  "name": "To be happy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Smile and enjoy the moment.\n2. Exercise - Exercise fights depression.\n3. Get plenty of sleep.\n4. Eat with mood in mind.\n5. Be grateful.\n6. Plan your week.\n7. Ditch your phone.\n8. Follow your hobby.\n9. Acknowledge the unhappy moments.\n10. Be unapologetic you."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

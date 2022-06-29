@@ -1,0 +1,41 @@
+{
+  "id": "3853c745-1424-4318-9b52-6e4a3ac2e231",
+  "name": "Web Series",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh! I loved Squid Game Go watch it!",
+            "Spoiler Alert!!!! I\u0027m sad that the heist ended :(  Go Watch Money Heist Season 5 Vol 2",
+            "Go watch - Money Heist, The House of Secrets, Mumbai Diaries, Little Things, Feels like Ishq, Stranger Things... These are my personal favourite.",
+            "Go Watch Game of Thrones again.",
+            "Watch Breaking Bad if not watched yet!",
+            "Watch Mismatched if not watched yet!",
+            "Ehh!! Exams are coming, go and study... Thank me later."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

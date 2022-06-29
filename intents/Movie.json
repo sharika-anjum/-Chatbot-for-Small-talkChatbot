@@ -1,0 +1,37 @@
+{
+  "id": "288a77d1-763b-48ff-aea7-3f1072abc775",
+  "name": "Movie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh I still love watching Jurassic Park (1993), King Kong,Titanic, Hera Pheri...These are epic movies that never gets old. Watch them again.",
+            "Your daily stuffs are no less than a movie for me",
+            "Ehhh? Exams are coming, go and study... Thank me later."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

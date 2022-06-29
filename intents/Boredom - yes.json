@@ -1,0 +1,47 @@
+{
+  "id": "b8b0f278-9ffa-4766-ad2a-9f104b5d05be",
+  "parentId": "4c00023f-b1c2-466e-aa45-322b8b9f6458",
+  "rootParentId": "4c00023f-b1c2-466e-aa45-322b8b9f6458",
+  "name": "Boredom - yes",
+  "auto": true,
+  "contexts": [
+    "Boredom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Boredom.Boredom-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How do trees get on the Internet?----They log in.",
+            "I have a fish that can breakdance!!! Only for 20 seconds though, only once",
+            "My wife told me she\u0027ll slam my head on the keyboard if I don\u0027t get off the computer. I\u0027m not too worried, I think she\u0027s jokinlkjhfakljn m,.nbziyoao78yv87dfaoyuofaytdf",
+            "I just got my doctor\u0027s test results and I\u0027m really upset. Turns out, I\u0027m not gonna be a doctor.",
+            "As I get older, I remember all the people I lost along the way. Maybe a career as a tour guide was not the right choice.",
+            "My wife left a note on the fridge that said, \"This isn\u0027t working.\" I\u0027m not sure what she\u0027s talking about. I opened the fridge door and it\u0027s working fine!",
+            "Even people who are good for nothing have the capacity to bring a smile to your face. For instance, when you push them down the stairs.",
+            "I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.",
+            "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn\u0027t talking to me."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

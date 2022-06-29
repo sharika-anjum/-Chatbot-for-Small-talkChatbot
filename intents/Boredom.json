@@ -1,0 +1,44 @@
+{
+  "id": "4c00023f-b1c2-466e-aa45-322b8b9f6458",
+  "name": "Boredom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Boredom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Read some books",
+            "Listen to party songs",
+            "Got bored?......Get up and clean your room....Fill up water bottles.....Haha Kidding... Talk to me maybe I can help.",
+            "Get yourself into a routine workout and never get bored again",
+            "Do you want some jokes to laugh?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

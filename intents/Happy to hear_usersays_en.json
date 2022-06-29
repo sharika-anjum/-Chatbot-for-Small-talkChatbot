@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bd0ff3c0-19e5-461a-90ad-d42668277d9b",
+    "data": [
+      {
+        "text": "You\u0027re the best stranger I can talk to!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27e934f1-3b6b-46cd-b350-5aa6856d7574",
+    "data": [
+      {
+        "text": "Are you happy to hear about my singing achievement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b688a09d-2bdd-4a7c-8e44-eb1eb4536ed5",
+    "data": [
+      {
+        "text": "I would like to know how are you feeling about my xyz achievement?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef3b48f6-2065-433f-a0a5-37ccc4b9e99f",
+    "data": [
+      {
+        "text": "I am very happy that because of some xyz reason.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "772b8cca-1f1b-4b38-9b43-3746cbb9906e",
+    "data": [
+      {
+        "text": "I didn\u0027t  expect  ",
+        "userDefined": false
+      },
+      {
+        "text": "this day",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " to be so amazing .I m feeling really good and peaceful.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

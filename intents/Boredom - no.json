@@ -1,0 +1,39 @@
+{
+  "id": "869d55a8-8fb5-4417-a84c-87dc0dc1a766",
+  "parentId": "4c00023f-b1c2-466e-aa45-322b8b9f6458",
+  "rootParentId": "4c00023f-b1c2-466e-aa45-322b8b9f6458",
+  "name": "Boredom - no",
+  "auto": true,
+  "contexts": [
+    "Boredom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Boredom.Boredom-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay!!!.....Then you can listen to songs, watch a movie or go out with your friends"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

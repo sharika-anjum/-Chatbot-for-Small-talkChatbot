@@ -1,0 +1,373 @@
+[
+  {
+    "id": "71760954-ab7d-4233-b213-4eb0fda2de87",
+    "data": [
+      {
+        "text": "Will you like to laugh with me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8ba000e-cd85-4510-ad97-4ad03d7cb6dc",
+    "data": [
+      {
+        "text": "Will you enjoy with me this lovely enthrollment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dab7ed07-3693-4c5e-ab94-6347daea716b",
+    "data": [
+      {
+        "text": "My future?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ec12f0d-ff7b-45e5-8e8a-a38ad2723959",
+    "data": [
+      {
+        "text": "Can you tell me my future?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1eadbcd-c24e-42eb-9f0d-c9f0625cec6a",
+    "data": [
+      {
+        "text": "Which colour will be perfect for my hair to dye?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97c733c0-e24d-4e5a-b37d-7012ccc0166c",
+    "data": [
+      {
+        "text": "What colour should I do on my hair?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7579249-470c-46c8-97fe-fd50cc184ac0",
+    "data": [
+      {
+        "text": "Do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "Aishani Mukerji",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92073017-34ef-4dd7-9857-722c19132028",
+    "data": [
+      {
+        "text": "Do you know Kritisha Panda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38872ae4-b60e-45fd-a5f8-eeabe7b6ea89",
+    "data": [
+      {
+        "text": "\n Do you know Hannibal Barca?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c933b9d-6ceb-47b7-9048-a1109c8a1670",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Romans",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5133d766-67dc-4fef-8cbd-605db08c0f0d",
+    "data": [
+      {
+        "text": "Can you dance?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3c89b80-2965-4b51-920c-09e711149073",
+    "data": [
+      {
+        "text": "Today\u0027s match score.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53d5c617-6214-47ff-9f49-5d0c448adfdb",
+    "data": [
+      {
+        "text": "\n What is today\u0027s match score in ISL?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a16e1ac1-19bc-4c6a-b75e-97ef92064aa6",
+    "data": [
+      {
+        "text": "How is the weather ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "381ed144-31b4-4010-b52c-caf04d870b3c",
+    "data": [
+      {
+        "text": "Can you play a random music to cheer me up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d42da7ce-508f-48eb-99b8-0bbe12cd13e5",
+    "data": [
+      {
+        "text": "Today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f235cc8e-b797-47ec-b2ed-147b58476487",
+    "data": [
+      {
+        "text": "Weather forecast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ef7b5b7-a89e-4688-9558-dec9a3278fbf",
+    "data": [
+      {
+        "text": "Tell ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ca02162-293e-4932-a2cb-874827fae275",
+    "data": [
+      {
+        "text": "Play a song..",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9a75bc0-de8f-432e-9f37-0b5acad73dd7",
+    "data": [
+      {
+        "text": "Sing a song",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c6873b0-2f75-401b-8b97-e05c2b51a808",
+    "data": [
+      {
+        "text": "Sing a song.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0da29eca-331a-4661-bd53-79873d056c6b",
+    "data": [
+      {
+        "text": "Play the latest track by divine.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43a4c58e-d1fd-414d-93a8-313705626bce",
+    "data": [
+      {
+        "text": "Play a romantic bollywood song for me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc3da9ed-7fa5-4e9c-b8a7-453c7b0aa19b",
+    "data": [
+      {
+        "text": "How is the weather?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11aea81b-529b-4ab3-af32-2af991f52447",
+    "data": [
+      {
+        "text": "Can you sing a song for me ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

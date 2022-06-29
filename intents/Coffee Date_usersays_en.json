@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0fd041c4-d468-48a3-b5af-5b9cd6d4cd78",
+    "data": [
+      {
+        "text": "Do you love me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85aab741-2551-42bf-9d83-aa4a074ae83b",
+    "data": [
+      {
+        "text": "Love me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11f06a77-46b9-4a13-8e69-22deb665a67b",
+    "data": [
+      {
+        "text": "Interested in me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ca4b61f-a18b-4d60-b757-e83c25ae7a58",
+    "data": [
+      {
+        "text": "Can I date you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98a0c2f2-2a08-414d-9da0-18997b33b6dd",
+    "data": [
+      {
+        "text": "Wanna date me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdca6089-fb38-47e2-a76a-528dd9b382a4",
+    "data": [
+      {
+        "text": "Wanna go on a date with me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac223c86-ffae-41b5-8531-abdbccc8c30c",
+    "data": [
+      {
+        "text": "How about a coffee date to my nearby café?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "c91ac99f-9c49-451b-8497-9af0a557ab1e",
+  "parentId": "ada2d12e-3a0c-4c90-957c-1e82ea56aabb",
+  "rootParentId": "ada2d12e-3a0c-4c90-957c-1e82ea56aabb",
+  "name": "I have no friends - no",
+  "auto": true,
+  "contexts": [
+    "Ihavenofriends-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ihavenofriends.Ihavenofriends-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alas!!!! I was not expecting something like that from you"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

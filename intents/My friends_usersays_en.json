@@ -1,0 +1,80 @@
+[
+  {
+    "id": "40bf74c0-35ff-466d-96f1-d9db1dc882d3",
+    "data": [
+      {
+        "text": "Can I know the name of your friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ad10198-cd7b-4a98-a534-f88011fccc24",
+    "data": [
+      {
+        "text": "Who are your friends?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "158d35bb-c76a-47b1-ad46-47d0c9e6cb74",
+    "data": [
+      {
+        "text": "Is Watson your friend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cb7022b-0898-44c4-9a8e-56983cf64ed3",
+    "data": [
+      {
+        "text": "Is Siri your friend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00160840-d514-4e88-9ffb-a6120b722a5b",
+    "data": [
+      {
+        "text": "Is Rasa your friend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c84e32c-c292-4a83-af3c-06a176bf9189",
+    "data": [
+      {
+        "text": "Is Alexa your friend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

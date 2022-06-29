@@ -1,0 +1,67 @@
+[
+  {
+    "id": "836b70ce-62a7-44ca-a797-4dd340233522",
+    "data": [
+      {
+        "text": "movies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21f7401-39a3-48c3-bcee-0c92adc6d901",
+    "data": [
+      {
+        "text": "movies to watch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d676681e-b261-404e-9cd3-02a22592ce74",
+    "data": [
+      {
+        "text": "Some movie suggestions please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "057a44a0-30ce-4607-9323-d0c9d41c1cfb",
+    "data": [
+      {
+        "text": "Suggest me some good movies please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29df1d62-099a-4d6c-a476-b9760ec0a223",
+    "data": [
+      {
+        "text": "What\u0027s your favourite Movie.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

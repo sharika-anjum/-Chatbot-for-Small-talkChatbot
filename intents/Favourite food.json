@@ -1,0 +1,37 @@
+{
+  "id": "59dbfc76-1c8b-4fb6-a568-6d1d4832a1dc",
+  "name": "Favourite food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Choco - BYTES are yummy!!!!",
+            "Delicious BITS \u0026 BYTES !!!",
+            "Nothing matches the taste of GiGa ByTeS"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

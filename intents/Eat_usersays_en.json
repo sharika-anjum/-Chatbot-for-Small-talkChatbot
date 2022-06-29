@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7b316e8e-fe20-469e-a1e8-a8c5259bbe40",
+    "data": [
+      {
+        "text": "What can I eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5eec80e-be10-4b6a-be09-cd704633e487",
+    "data": [
+      {
+        "text": "What to eat now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa368c34-6e2f-4d46-abde-be5333c21b41",
+    "data": [
+      {
+        "text": "What should I eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4099f32c-64c2-4b27-9c65-b732eca0bba0",
+    "data": [
+      {
+        "text": "Suggest me something good to eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
