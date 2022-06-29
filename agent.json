@@ -1,0 +1,35 @@
+{
+  "description": "Your 24/7 assistant",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "PersonX",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "url": "https://9ab3-202-142-106-181.ngrok.io",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "fc54e10cda9d44408b11c1e2d11d69fd",
+  "analyzeQueryTextSentiment": true,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}
